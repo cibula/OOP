@@ -1,0 +1,6 @@
+5
+Petar, M, 2000
+Slavko, N, 350
+Mirko, N, 300
+Pera, M, 1500
+Zoran, N, 500
